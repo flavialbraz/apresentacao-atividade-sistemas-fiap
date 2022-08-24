@@ -235,6 +235,10 @@ header {
 	bottom: 100px;
 }
 
+.image-card .viewmore:hover {
+    background: #0f0315;
+}
+
 .who {
 	margin-bottom: 9rem;
 }
