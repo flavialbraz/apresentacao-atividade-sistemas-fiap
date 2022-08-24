@@ -409,6 +409,7 @@ footer {
 
 	nav a {
 		padding: 0px;
+		margin: 0px 6px;
 	}
 
 	section.tecs.flex {
@@ -464,8 +465,9 @@ footer {
 		display: flex;
 		align-items: center;
 	}
+	
 	.card {
-	width: 100%;
-}
+		width: 100%;
+	}
 	
 }
